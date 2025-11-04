@@ -470,3 +470,4 @@ Ethereum & USDT (ERC20): `0x348e3C3b17784AafD7dB67d011b85F838F16E2D1`
 USDT & TRON (TRC20): `TR4mA5quGVHGYS186HKDuArbD8SVssiZVx`
 
 Litecoin (LTC): `ltc1qtgvxc6na9pxvznu05yys3j5rq9ej6kahe2j50v`
+
